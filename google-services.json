@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "71952571476",
+    "firebase_url": "https://qaapp-6695f.firebaseio.com",
+    "project_id": "qaapp-6695f",
+    "storage_bucket": "qaapp-6695f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71952571476:android:9b3bbdefe3c71c6a",
+        "android_client_info": {
+          "package_name": "jp.techacademy.kumuko.shima.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71952571476-mnd8brgteeddaqou54ue4i4e7todcq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL1GFBZv88n2_5S6AKIA-dM1ui2SHFOEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
